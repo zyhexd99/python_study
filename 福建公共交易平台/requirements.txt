@@ -1,0 +1,11 @@
+# 网络请求
+requests>=2.31.0
+
+# 环境变量 .env
+python-dotenv>=1.0.0
+
+# 调用 JS 加密
+PyExecJS>=1.5.1
+
+# AES 解密（响应解密）
+pycryptodome>=3.23.0
